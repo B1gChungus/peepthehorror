@@ -1,0 +1,3 @@
+<svg height="210" width="500" className="bg-red">
+  <polygon points="200,100 250,200 150,200" className="fill:lime;stroke:purple;stroke-width:1" />
+</svg>
