@@ -9,3 +9,7 @@
 
 very unfinished due to lack of skill and time have fun!!!
 yippee
+
+
+https://www.figma.com/file/j68Pfv2AnEgM5qpODpf4b7/Untitled?type=design&node-id=0%3A1&t=VWpSwvdXjoSMu84P-1
+wireframes
